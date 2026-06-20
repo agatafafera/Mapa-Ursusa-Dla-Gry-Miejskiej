@@ -11,6 +11,7 @@ Kod nie jest wygenerowany.
 
 ## Credits: 
 © OpenStreetMap contributors — https://www.openstreetmap.org/copyright
+
 github.com/marceloprates/prettymaps
 
 
